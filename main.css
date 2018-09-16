@@ -1,0 +1,73 @@
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: auto;
+  height:220px;
+  width:150px;
+  }
+
+h1 {
+  font-family: 'Permanent Marker';
+  font-weight: extrabold;
+  color: #050505;
+  font-size:42px;
+  text-align: center;
+}
+
+h2,h3,h4 {
+  font-style: italic;
+  font-family: 'Exo', sans-serif;
+  color: #050505;
+  font-size:25px;
+}
+p {
+  font-family: 1.2em "Fira Sans", sans-serif;
+  text-align: justify;
+  font-size: 20px;
+  word-wrap: break-word;
+  text-align: justify;
+  text-justify: inter-word;
+}
+html {
+  background-color: #abeaff;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-right: auto;
+  margin-left: auto;
+}
+<meta name="viewport" content ="width=device-width,initial-scale=1.0, shrink-to-fit"
+<link rel=""
+h1{
+  color: purple;
+  font-weight: normal;
+}
+
+#strategy to avoid unreadable fonts
+h1{
+  color: purple;
+  font family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+}
+
+#A way to let the whole webpage to have the same font
+html {
+  font family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#A way to let other sections of the webpage to have different fonts
+h1,h2,h3,h4,h5,h6 {
+  font family: Georgia, "Times New Roman", Times, Roman, serif;
+}
+ p.intro {
+   color: orange;
+ }
+
+}
+ .intro {
+   color: orange;
+ }
+
+nav a{
+
+}
