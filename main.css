@@ -38,38 +38,3 @@ html {
   margin-right: auto;
   margin-left: auto;
 }
-<meta name="viewport" content ="width=device-width,initial-scale=1.0, shrink-to-fit"
-<link rel=""
-h1{
-  color: purple;
-  font-weight: normal;
-}
-
-#strategy to avoid unreadable fonts
-h1{
-  color: purple;
-  font family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: normal;
-}
-
-#A way to let the whole webpage to have the same font
-html {
-  font family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-#A way to let other sections of the webpage to have different fonts
-h1,h2,h3,h4,h5,h6 {
-  font family: Georgia, "Times New Roman", Times, Roman, serif;
-}
- p.intro {
-   color: orange;
- }
-
-}
- .intro {
-   color: orange;
- }
-
-nav a{
-
-}
